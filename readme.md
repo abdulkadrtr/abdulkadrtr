@@ -1,5 +1,16 @@
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/87595266/228364928-d81aab3c-ad87-4f9c-8a62-45ccd2aaea86.png" alt="logo1" width="70" height="70"/>
+</p>
+
+
 # About Me:
-- I’m currently working on robotic and ai algorithms
+
+- I'm passionate about artificial intelligence algorithms and their potential to transform the world we live in.
+- I have a strong interest in developing autonomous vehicles and have worked on several projects in this area.
+- My expertise also extends to the field of robotics, where I've undertaken a number of exciting projects.
+- I believe in the power of technology to make a positive impact on society and I'm constantly seeking new ways to innovate and create.
+- In my free time, I enjoy tinkering with electronics and experimenting with new programming languages.
+- I'm excited to collaborate with like-minded individuals who share my passion for cutting-edge technology and innovation.
 
 
 ## 🌐 Socials:
@@ -11,4 +22,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdulkadrtr&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulkadrtr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadrtr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
