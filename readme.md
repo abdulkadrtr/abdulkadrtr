@@ -5,12 +5,11 @@
 
 # About Me:
 
-- I'm passionate about artificial intelligence algorithms and their potential to transform the world we live in.
-- I have a strong interest in developing autonomous vehicles and have worked on several projects in this area.
-- My expertise also extends to the field of robotics, where I've undertaken a number of exciting projects.
-- I believe in the power of technology to make a positive impact on society and I'm constantly seeking new ways to innovate and create.
-- In my free time, I enjoy tinkering with electronics and experimenting with new programming languages.
-- I'm excited to collaborate with like-minded individuals who share my passion for cutting-edge technology and innovation.
+- I’m passionate about AI and its potential to change the world. 
+- I’m interested in autonomous vehicles and robotics and have worked on projects in these areas.
+- I believe technology can positively impact society and I’m always looking for new ways to innovate.
+- In my free time, I enjoy working with electronics and learning new programming languages. 
+- I’m excited to work with others who share my passion for technology and innovation.
 
 
 ## Socials:
