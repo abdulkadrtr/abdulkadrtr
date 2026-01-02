@@ -14,17 +14,18 @@ Experience with ROS 2–based robotic systems, multi-robot platforms, autonomous
 
 #### [Quadruped Robot Navigation (Deep Reinforcement Learning)](https://www.youtube.com/watch?v=mmHWJ8qSx7U)
 
-End-to-end navigation for 12-DoF quadruped robots using deep reinforcement learning.  
-Implemented in Unity with realistic physics and trained using the Soft Actor-Critic (SAC) algorithm.
+End-to-end navigation for 12-DoF quadruped robots using deep reinforcement learning.
+Trained with SAC in a physics-based Unity simulation, including reward, action, and observation space design for stable and energy-efficient locomotion.
 
 #### [Multi-Robot Frontier-Based Exploration (ROS 2)](https://www.youtube.com/watch?v=6FtEvvi4lk4&t=348s)
 
-Collaborative frontier-based exploration in ROS 2 with multiple autonomous robots.  
-This project was also used as an academic thesis topic in Italy.
+Frontier-based exploration for multiple autonomous robots in ROS 2.
+Implemented collaborative goal allocation with integrated path planning and trajectory tracking; also used as an academic thesis topic in Italy.
 
 #### [Autonomous Driving & Robotics Algorithms](https://www.youtube.com/watch?v=3fzhcxWPNmQ&t=14s)
 
-Decision-making, path planning, and trajectory tracking algorithms for autonomous vehicles and robotic systems across diverse environments.
+Perception, planning, and control algorithms for autonomous driving and robotics.
+Includes vision-based recognition, Pure Pursuit tracking, and a modified A* path planning approach.
 
 ---
 
