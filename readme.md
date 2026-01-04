@@ -5,7 +5,7 @@
 Systems and robotics engineer focused on autonomous and safety-critical real-time software.
 
 
-Experience with ROS 2–based robotic systems, multi-robot platforms, autonomous vehicles, and UAV simulation, as well as reinforcement learning and control algorithms. Background in safety-critical and deterministic systems (ARINC 653 concepts, kernel development, and DO-178C–aligned practices), along with low-level C/C++ development and FPGA design using Verilog.
+Experience with ROS 2–based robotic systems, multi-robot platforms, autonomous vehicles, and UAV simulation, as well as reinforcement learning and control algorithms. Background in safety-critical and deterministic systems (RTOS kernel development, and DO-178C–aligned practices), along with low-level C/C++ development and FPGA design using Verilog.
 
 
 ---
@@ -41,7 +41,7 @@ Project demos and technical details:
 
 | Domain | Technologies |
 |------|-------------|
-| **Real-Time & Safety-Critical Systems** | ARINC 653 kernel development, partitioned systems, deterministic scheduling, real-time constraints, DO-178C–aligned development practices |
+| **Real-Time & Safety-Critical Systems** | RTOS kernel development, partitioned systems, deterministic scheduling, real-time constraints, DO-178C–aligned development practices |
 | **Low-Level & Embedded** | C / C++ (system-level and embedded), kernel and RTOS-oriented development, FPGA design with Verilog |
 | **Robotics & Autonomous Systems** | ROS 2, multi-robot systems, autonomous navigation, UAV and ground vehicle simulation (Unity, Gazebo, Webots), path planning, mapping, control, decision-making |
 | **AI & Learning** | Deep Reinforcement Learning (SAC), neural network–based control and perception |
