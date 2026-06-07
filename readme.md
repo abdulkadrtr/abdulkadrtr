@@ -50,6 +50,6 @@ Project demos and technical details:
 ---
 
 ### GitHub Stats
-![abdulkadrtr's Stats](https://github-readme-stats.vercel.app/api?username=abdulkadrtr&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulkadrtr&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadrtr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![abdulkadrtr's Stats](https://github-readme-stats-fast.vercel.app/api?username=abdulkadrtr&show_icons=true&theme=dark)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=abdulkadrtr&theme=dark)<br/>
+
