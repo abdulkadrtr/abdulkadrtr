@@ -16,7 +16,7 @@ Experience with ROS 2–based robotic systems, multi-robot platforms, autonomous
 
 Frontier-based exploration for multiple autonomous robots in ROS 2. Implemented collaborative goal allocation with integrated path planning and trajectory tracking. 
 
-**🏆 Real-World Validation & Mentions:**
+**Real-World Validation & Mentions:**
 * **US R&D Implementation:** Evaluated and integrated by the US Engineering Research and Development Center (ERDC) in their official technical report ([ERDC TR-25-10](https://www.erdc.usace.army.mil/Media/Publication-Notices/Article/4186191/autonomous-robotics-development-in-robot-operating-system-ros-2-humble/)). The package was selected for its efficient Depth-First Search (DFS) algorithm to govern autonomous decision-making, successfully guiding a physical robot to autonomously map indoor environments and generate 3D point clouds.
 * **Academic Research:** Featured as a core implementation in a Master's thesis at Politecnico di Torino (Italy), focusing on collaborative autonomous exploration methodologies ([Read Thesis](https://webthesis.biblio.polito.it/33980/)).
 
